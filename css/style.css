@@ -14,7 +14,7 @@
   width: 80%;
   height: 1024px;
   margin: auto;
-  background-color: green;
+  /* background-color: green; */
 }
 
 header{
@@ -33,6 +33,31 @@ header{
   margin-top: 3%;
   height: 46%;
   background-color: lightblue;
+}
+
+.intestazione {
+  background-color: darkblue;
+  height: 15%;
+  margin-bottom: 1%;
+}
+
+.left {
+  width: 23%;
+  float: left;
+  background-color: darkblue;
+}
+
+.center {
+  width: 50%;
+  float: left;
+  background-color: darkblue;
+  margin: 0 2%;
+}
+
+.right {
+  width: 23%;
+  float: left;
+  background-color: darkblue;
 }
 
 footer {
