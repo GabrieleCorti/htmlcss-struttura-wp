@@ -1,3 +1,4 @@
+/* utility */
 * {
   margin: 0;
   padding: 0;
@@ -9,6 +10,7 @@
   display: table;
   clear: both;
 }
+/* fine utility */
 
 .container {
   width: 80%;
